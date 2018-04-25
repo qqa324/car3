@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="brand">
+        <item >브랜드 선택</item>
+        <item >아우디</item>
+        <item >벤츠</item>
+        <item >폭스바겐</item>
+        <item >제규어</item>
+        <item >포르쉐</item>
+        <item >람보르기니</item>
+    </string-array>
+
+    <string-array name="cartype">
+        <item >차종 선택</item>
+    </string-array>
+
+    <string-array name="model">
+        <item >모델 선택</item>
+    </string-array>
+
+    <string-array name="level">
+        <item >등급 선택</item>
+    </string-array>
+</resources>
